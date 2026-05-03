@@ -54,6 +54,8 @@ export function Hero() {
             <Icon name="search" size={24} />
             <input
               aria-label="Search doctors, departments or symptoms"
+              autoComplete="off"
+              name="hospital-search"
               placeholder="Search Doctors, Departments or Symptoms..."
             />
             <button type="submit">Search</button>
