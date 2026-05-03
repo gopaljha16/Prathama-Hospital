@@ -62,12 +62,11 @@ textarea {
 }
 
 .brand {
-  width: 176px;
+  width: 158px;
   display: block;
 }
 
-.brand img,
-.footer-brand img {
+.brand img {
   width: 100%;
   height: auto;
   display: block;
@@ -791,7 +790,9 @@ textarea {
 }
 
 .footer-brand img {
-  width: 168px;
+  width: 150px;
+  height: auto;
+  display: block;
   filter: brightness(0) invert(1);
 }
 
@@ -857,7 +858,7 @@ textarea {
   }
 
   .brand {
-    width: 168px;
+    width: 154px;
   }
 
   .header-actions {
@@ -975,7 +976,7 @@ textarea {
   }
 
   .brand {
-    width: 176px;
+    width: 154px;
   }
 
   .header-actions {
@@ -1142,7 +1143,7 @@ textarea {
   }
 
   .brand {
-    width: 164px;
+    width: 150px;
     order: 2;
   }
 
@@ -1247,7 +1248,7 @@ textarea {
   }
 
   .menu-panel-head img {
-    width: 158px;
+    width: 150px;
     height: auto;
   }
 
